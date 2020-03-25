@@ -1,1 +1,2 @@
-# BAIN
+# Lerntagebuch Bibliothek- und Archivinformatik
+
