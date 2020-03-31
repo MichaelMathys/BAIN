@@ -1,5 +1,5 @@
 # Lerntagebuch Bibliotheks- und Archivinformatik
-Aha, ein Lerntagebuch. Das ist mir als Prüfungsleistung noch nicht untergekommen. Ähnliches gab es nur in längst verdrängten Gymi-Zeiten, als ein Deutschlehrer wöchentliche Einträge in ein Lernjournal dazu missbrauchte, zufällig ausgewählten Pechvögeln das Zeugnis zu verhageln. Da sich das ganze nun nicht mehr um die Meriten deutscher Literaturklassiker dreht, kann es aber eigentlich nur besser werden. Da ich bisher wenig Erfahrung mit Bibliotheks- und Archivinformatik  gemacht habe, ist dies eine gute Möglichkeit meine Schritte zu einem besseren Verständnis zu dokumentieren.
+Aha, ein Lerntagebuch. Das ist mir als Prüfungsleistung noch nicht untergekommen. Ähnliches gab es nur in längst verdrängten Gymi-Zeiten, als ein Deutschlehrer wöchentliche Einträge in ein Lernjournal dazu missbrauchte, zufällig ausgewählten Pechvögeln das Zeugnis zu verhageln. Da sich das ganze nun nicht mehr um die Meriten deutscher Literaturklassiker dreht, kann es aber eigentlich nur besser werden. Da ich bisher wenig Erfahrung mit Bibliotheks- und Archivinformatik  gemacht habe, ist dies eine gute Möglichkeit meine Schritte zu einem besseren Verständnis in diesem Bereich zu dokumentieren.
 
 ## 1. Eintrag, Mitte März 2020
 
