@@ -9,7 +9,7 @@ Ich hatte bisher kaum mit deinesgleichen zu tun. Ein Tagebuch zu führen, regelm
 <p>
 Vor diesem, etwas unheimlichen, Hintergrund besteht mein Ziel darin, auf diesen Seiten ausgewählte Lerninhalte zu vertiefen.  
 Strukturell wird sich dieses Lerntagebuch an den Inhalten der einzelnen Unterrichtseinheiten orientieren. Dabei werden einzelne von mir als besonders interessant empfundene Aspekte vertieft betrachtet. Besonderes Augenmerk möchte ich auch jenen Bereichen schenken, die mir grosse Mühe/Ärger bescheren. Denn gerade im Bereich der Informatik hat sich für mich das Frustrationspotenzial in der Vergangenheit als nahezu grenzenlos erwiesen. Bei all dem hege ich, liebes Tagebuch, die Hoffnung, dass wir auf einer professionellen Ebene, ohne Kollateralschäden beiderseits das Beste aus der Situation machen werden.
-<br>
+
 ## Unterrichtseinheiten
 [Unterrichtseinheit vom 13.03.2020](https://michaelmathys.github.io/BAIN/Lerntagebuch)
 
