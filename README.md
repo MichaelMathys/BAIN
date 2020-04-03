@@ -1,1 +1,1 @@
-[Lerntagebuch Bibliothek- und Archivinformatik](https://michaelmathys.github.io/BAIN/Lerntagebuch.md)
+[Lerntagebuch Bibliothek- und Archivinformatik](https://michaelmathys.github.io/BAIN/Lerntagebuch)
