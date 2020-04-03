@@ -12,4 +12,4 @@ Strukturell wird sich dieses Lerntagebuch an den Inhalten der einzelnen Unterric
 
 ## Einträge
 
-[1](https://michaelmathys.github.io/BAIN/13032020)
+[1] (https://michaelmathys.github.io/BAIN/13032020)
