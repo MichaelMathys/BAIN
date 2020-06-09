@@ -1,4 +1,9 @@
-# Abschluss
+# Abschluss 09.06.2020
+
+Liebes Tagebuch, nach diesem durchaus ungewöhnlichen Semester möchte ich an dieser Stelle kurz Rückschau halten. Fern scheinen die Tage, als man Vorlesungsräume noch physisch betreten hat, anstelle sich wie der moderne Mensch, im Morgenmantel, einer Onlinesitzung anzuschliessen. Mit ausgeschalteter Kamera versteht sich. Diese Form des Unterrichts machte die Problemlösung teilweise recht umständlich, wobei dies keineswegs als Kritik am Dozenten zu verstehen sein soll. Es ist nun mal viel einfacher direkt auf das betroffene Gerät einwirken zu können, als Ferndiagnosen zu stellen. Allerdings kann ich für mich feststellen, dass entgegen der anfänglich geäusserten Befürchtungen, die Installation und Anwendung der im Kurs behandelten Systeme im grossen und ganzen problemlos verlaufen ist. Besonders gefreut hat mich dies, da wir sehr stark auf open source Software fokussiert waren und mir zuvor vielfach gesagt worden war, dass dieses "Zeug" nicht funktioniere. Dem war nicht so! Überhaupt hat der Umgang mit Open Source Software und Github mein Interesse für diese Thematik geweckt. Und ich hab auch die erste Episode von Doom durchgespielt, was in der gegenwärtigen Endzeitstimmung bestimmt als angemessene Zeitverschwendung durchgeht.  
+
+Das Verfassen der Lerntagebucheinträge war half zum einen beim Rekapitulieren der Lerninhalte, zum anderen aber auch die Möglichkeit mit Markdown und Github ein wenig herumzupröbeln. Inhaltlich bestand für die Schwierigkeit jeweils darin, die vielen praktischen Übungen, die sicher lehrreich waren, in eine verständliche Textform zu bringen. Aus formaler Perspektive hat sich Markdown als einfach zu lernende Sprache herausgestellt, die im Internet an verschiedenen stellen gut erklärt wird. 
+Wir sind, liebes Tagebuch, vergleichsweise Schadlos durch dieses gemeinsame Semester gegangen. Dafür bin ich dankbar. Dennoch halte ich es für das Beste, wenn wir in Zukunft freundschaftlich Distanz halten.
 
 [Startseite](https://michaelmathys.github.io/BAIN/Lerntagebuch)  
 [Vorhergehende Unterrichtseinheit](https://michaelmathys.github.io/BAIN/06062020)  
